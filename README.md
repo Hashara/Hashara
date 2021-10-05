@@ -39,12 +39,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/Hashara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashara&count_private=true&exclude_repo=CS4622-Machine-Learning-Project,mvc-Healer&hide=CSS,Batchfile,Hack&langs_count=6" alt="Hashara's Top lang" />
+ 
+</a>
 
 
 <a href="https://github.com/Hashara">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hashara&show_icons=true&count_private=true&theme=graywhite" alt="Hashara's GitHub Stats" />
  
 </a>
-
-
 
