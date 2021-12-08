@@ -38,9 +38,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://github.com/Hashara">
+   <img src="https://github-profile-trophy.vercel.app/?username=Hashara&theme=oldie&row=1&column=6&margin-w=15" alt="Hasahra">
+  </a>
+  </p>
 
+<p align="center">
 <a href="https://github.com/Hashara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashara&count_private=true&exclude_repo=CS4622-Machine-Learning-Project,mvc-Healer&hide=CSS,Batchfile,Hack&langs_count=6" alt="Hashara's Top lang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashara&count_private=true&exclude_repo=CS4622-Machine-Learning-Project,mvc-Healer&hide=CSS,Batchfile,Hack&langs_count=6&theme=graywhite" alt="Hashara's Top lang" />
  
 </a>
 
@@ -49,4 +55,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hashara&show_icons=true&count_private=true&theme=graywhite" alt="Hashara's GitHub Stats" />
  
 </a>
+</p>
+
+
 
