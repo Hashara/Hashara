@@ -18,6 +18,7 @@ You can find me on    [![LinkedIn][1.1]][1].
 
 [1]: https://www.linkedin.com/in/Hashara/
 
+![](https://komarev.com/ghpvc/?username=Hashara)
 <br clear="left"/>
 
 
