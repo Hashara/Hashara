@@ -2,7 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/47107459/135997802-33daec04-2721-47fe-9bca-3bcc5f3b969a.png" align="left" width="250px"/>
 <h1> Hi there 👋 </h1>
-I am a final year undergraduate from the University of Moratuwa, Department of Computer Science and Engineering. Please visit my
+I am a fresh graduate from the University of Moratuwa, Department of Computer Science and Engineering.  currently, I am working at Sysco Labs as a Software Engineer. My passion lies in Machine learning, and Computer vision and I'm constantly striving to improve my skills and learn new things.
+Please visit my
 <a href="https://hashara.github.io/">portfolio</a>
 for more information.
 
