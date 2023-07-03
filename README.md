@@ -118,5 +118,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hashara&show_icons=true&count_private=true&theme=graywhite" alt="Hashara's GitHub Stats" />
  
 </a>
+
+<p align="center">
+  <a href="https://github.com/Hashara">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=Hashara&theme=graywhite" alt="Hasahra">
+  </a>
+  </p>
+
 </p>
 
