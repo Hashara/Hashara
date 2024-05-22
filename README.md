@@ -24,6 +24,11 @@ You can find me on    [![LinkedIn][1.1]][1].
 <br clear="left"/>
 
 
+# Support Me
+
+If you like my work, consider buying me a coffee!
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Hashara)
 
 
 <!--
