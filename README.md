@@ -3,7 +3,9 @@
 <img src="https://user-images.githubusercontent.com/47107459/135997802-33daec04-2721-47fe-9bca-3bcc5f3b969a.png" align="left" width="250px"/>
 <h1> Hi there 👋 </h1>
 
-I am a fresh graduate from the University of Moratuwa, Department of Computer Science and Engineering.  currently, I am working at Sysco Labs as a Software Engineer. My passion lies in Machine learning, and Computer vision and I'm constantly striving to improve my skills and learn new things.
+I am currently a PhD candidate at the Australian National University, Engineering and Computer Science, focusing on the integration of bioinformatics, machine learning, and high-performance computing. My research involves applying machine learning and high-performance techniques to phylogenetic tree inference in the bioinformatics domain.
+Previously, I worked at SyscoLABs as a software engineer, where I specialized in cloud technologies and infrastructure management. During my tenure, I worked extensively with AWS, Terraform, Progress Chef, and Jenkins. I contributed significantly to the AIX to AWS cloud migration project, successfully migrating over 100 systems and primarily handling infrastructure configuration efforts.
+I hold a bachelor's degree from the University of Moratuwa in Computer Science and Engineering. My academic background has provided me with a strong foundation in computer science and engineering, and my professional experience has honed my skills in cloud infrastructure and automation.
 Please visit my
 <a href="https://hashara.github.io/">portfolio</a>
 for more information.
