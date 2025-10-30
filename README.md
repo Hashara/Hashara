@@ -117,7 +117,6 @@ Here are some ideas to get you started:
         <a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Open_MPI_logo.png" alt="openmpi" width="40" height="40"/>
         </a>
-        
         <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
         </a>
@@ -127,14 +126,12 @@ Here are some ideas to get you started:
         <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
         </a>
-        
         <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
         </a>
         <a href="https://www.mpi-forum.org/" target="_blank" rel="noreferrer">
           <img src="https://worldvectorlogo.com/downloaded/mpi.svg" alt="mpi" width="40" height="40"/>
         </a>
-        
         <!-- AWS (provider + popular services) -->
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
