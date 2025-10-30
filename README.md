@@ -106,7 +106,60 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
     </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-            height="40"/> </a></p>
+            height="40"/> </a>
+            <!-- NEW: HPC + DevOps + AWS -->
+        <a href="https://www.openmp.org/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenMP_logo.svg" alt="openmp" width="40" height="40"/>
+        </a>
+        <a href="https://www.openacc.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.nicepng.com/png/full/295-2958355_openacc-logo-openacc.png" alt="openacc" width="40" height="40"/>
+        </a>
+        <a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Open_MPI_logo.png" alt="openmpi" width="40" height="40"/>
+        </a>
+        
+        <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+        </a>
+        <a href="https://www.chef.io/products/chef-infra" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef" width="40" height="40"/>
+        </a>
+        <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+        </a>
+        
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        </a>
+        <a href="https://www.mpi-forum.org/" target="_blank" rel="noreferrer">
+          <img src="https://worldvectorlogo.com/downloaded/mpi.svg" alt="mpi" width="40" height="40"/>
+        </a>
+        
+        <!-- AWS (provider + popular services) -->
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+        </a>
+        <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/AWS_Simple_Icons_Storage_Amazon_S3.svg" alt="aws s3" width="40" height="40"/>
+        </a>
+        <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/AWS_Simple_Icons_Database_Amazon_RDS.svg" alt="aws rds" width="40" height="40"/>
+        </a>
+        <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
+          <img src="https://www.svgrepo.com/show/448266/aws-lambda.svg" alt="aws lambda" width="40" height="40"/>
+        </a>
+        <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
+          <img src="https://www.svgrepo.com/show/354084/amazon-ec2.svg" alt="aws ec2" width="40" height="40"/>
+        </a>
+        <a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer">
+          <img src="https://www.svgrepo.com/show/448260/amazon-ecs.svg" alt="aws ecs" width="40" height="40"/>
+        </a>
+        <a href="https://aws.amazon.com/secrets-manager/" target="_blank" rel="noreferrer">
+          <img src="https://icon-sets.iconify.design/simple-icons/awssecretsmanager.svg" alt="aws secrets manager" width="40" height="40"/>
+        </a>
+
+
+</p>
 
 ---
 <h3 align="left">Github Stats:</h3>
